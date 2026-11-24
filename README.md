@@ -4,8 +4,7 @@ SSH-Client für macOS und Windows.
 
 Die aktuelle Version gibt es unter [Releases](../../releases/latest):
 
-- **macOS Apple Silicon (M1 und neuer):** `UKShell_<Version>_aarch64.dmg`
-- **macOS Intel:** `UKShell_<Version>_x64.dmg`
+- **macOS (Apple Silicon und Intel):** `UKShell_<Version>_universal.dmg`
 - **Windows 10/11:** `UKShell_<Version>_x64.msi`
 
 Installierte Versionen aktualisieren sich selbst (Einstellungen → Updates).
